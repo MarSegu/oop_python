@@ -1,2 +1,2 @@
 # oop_python
-This repository contains an OOP python exercise
+This repository contains different python exercises, from basic to complex.
